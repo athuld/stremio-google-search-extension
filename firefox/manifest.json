@@ -8,7 +8,7 @@
     "96": "images/icon_96x96.png"
   },
   "browser_specific_settings": {
-    "gecko": { "id": "{abaf5ac1-2de7-47cb-bb39-142c1f709b19}" }
+    "gecko": { "id": "{aa8cb900-c7c4-4e64-83a7-8a0286c6ad0a}" }
   },
   "content_scripts": [
     {
