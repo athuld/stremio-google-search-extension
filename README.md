@@ -22,18 +22,14 @@
 * Click on Load unpacked and select the **chrome** folder inside the extracted folder
 * You should now see the extension installed. Browse and Enjoy :)
 ### Firefox
-* Download the **firefox-stremio-search.xpi** file from the [Releases Tab](https://github.com/athuld/stremio-google-search-extension/releases/tag/latest) 
-* Goto firefox Extensions > Manage Extensions > Click on Gear Icon at the top right > Install Add-on From File.. 
-* Select the **firefox-stremio-search.xpi** 
-* Click on Add and the Add-on should be installed now. Browse and Enjoy :)
+* Install the addon from the firefox-addon store
+<p><a target="_blank" href="https://addons.mozilla.org/en-US/firefox/addon/stremio-google-search/" title="Stremio Google Search"><img src="assets/firefoxaddon.png" width="200"/></a></p>
 
 ## Video Tutorial
 ### Chrome Method 1
 ![](assets/stremio-search-crx.gif)
 ### Chrome Method 2
 ![](assets/stremio-seach-extension.gif)
-### Firefox
-![](assets/stremio-search-xpi.gif)
 
 ## Screenshot
 ![](assets/pic-selected-250823-1711-34.png)
