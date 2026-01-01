@@ -28,3 +28,37 @@
     text-decoration: none;
     text-align: center;
 }
+
+#floating-btn {
+  position: fixed;
+  z-index: 1000;
+  bottom: 20px;
+  right: 0;
+  padding: 0.5em;
+  height: 40px;
+  width: 40px;
+  border-radius: 100%;
+  background-color: #c7d3ff;
+  margin: 1em;
+  border: none;
+  cursor: pointer;
+  display: grid;
+  place-items: center;
+  transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
+}
+
+.fab-hidden {
+  transform: translateY(100px);
+  opacity: 0;
+  pointer-events: none;
+}
+
+@keyframes quickLinkAppeared {  
+    from { opacity: 0.99; }  
+    to { opacity: 1; }  
+}
+
+a[data-testid="about-image"] {
+    animation-duration: 0.001s;
+    animation-name: quickLinkAppeared;
+}
