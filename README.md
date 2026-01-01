@@ -37,8 +37,10 @@
 ## Screenshots
 ![](assets/pic-selected-250823-1711-34.png)
 ![](assets/duckduckgo.png)
-![](assets/firefox-google-mob.jpg)
-![](assets/firefox-duck-mob.jpg)
+<div align="center">
+  <img height="700px" src="assets/firefox-google-mob.jpg" />
+  <img height="700px" src="assets/firefox-duck-mob.jpg" />
+</div>
 
 ## Notes
 * I made this for personal use since i always search my movies and series first and then watch it after checking reviews and scores etc..
